@@ -1,7 +1,8 @@
 ## CHAPO THE BEAUTY
 
-Hi I'm Chapo welcome to my site
+Hi I'm **Chapo** welcome to my site
 
+> Wow da best site ever mane
 
 
 ### Ummm
@@ -34,3 +35,5 @@ Hi I have some albums they are called Balaclava Music, Rat Pack and On To The Ne
 ### ???
 
 Sleep
+![image0-8.jpg]({{site.baseurl}}/image0-8.jpg)
+
