@@ -7,30 +7,16 @@ Hi I'm **Chapo** welcome to my site
 
 ### Ummm
 
-Dont know how to do HTML 
+[instagram](https://instagram.com/chapothebeauty "instagram")
+[twitter](https://twitter.com/chapothebeauty "twitter")
+[youtube](https://www.youtube.com/channel/UC7lng407qfPKmlQBQSOmatQ "youtube")
+[spotify](https://open.spotify.com/artist/50IdS28e1U2130dN475nRE "spotify")
 
-```markdown
-beep boop code comptuer
 
-# hey
-## chapo
-### baoogoogoggogogo
-
-- just writing stuff here
-- i really have no idea what im doin
-
-1. sup
-2. nothin chillin
-
-**yea** ba _daba_ `doooo`
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Music
 
-Hi I have some albums they are called Balaclava Music, Rat Pack and On To The Next One
+Hi I have 3 mixtapes and I also have another mixtape but it isn't out yet lol daaaamn dat sucks (thats what ur saying in ur head)
 
 ### ???
 
