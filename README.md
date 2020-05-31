@@ -1,4 +1,3 @@
-## CHAPO THE BEAUTY
 
 Hi I'm **Chapo** welcome to my site
 
