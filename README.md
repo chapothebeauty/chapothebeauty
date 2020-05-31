@@ -6,6 +6,8 @@ Hi I'm **Chapo** welcome to my site
 
 
 ### Ummm
+[SOUNDCLOUD](https://soundcloud.com/chapothebeauty "SOUNDCLOUD")
+
 
 [instagram](https://instagram.com/chapothebeauty "instagram")
 [twitter](https://twitter.com/chapothebeauty "twitter")
