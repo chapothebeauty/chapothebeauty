@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## CHAPO THE BEAUTY
 
-You can use the [editor on GitHub](https://github.com/chapothebeauty/chapothebeauty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Chapo welcome to my site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ummm
+
+Dont know how to do HTML 
 
 ```markdown
-Syntax highlighted code block
+beep boop code comptuer
 
-# Header 1
-## Header 2
-### Header 3
+# hey
+## chapo
+### baoogoogoggogogo
 
-- Bulleted
-- List
+- just writing stuff here
+- i really have no idea what im doin
 
-1. Numbered
-2. List
+1. sup
+2. nothin chillin
 
-**Bold** and _Italic_ and `Code` text
+**yea** ba _daba_ `doooo`
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Music
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chapothebeauty/chapothebeauty/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hi I have some albums they are called Balaclava Music, Rat Pack and On To The Next One
 
-### Support or Contact
+### ???
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sleep
