@@ -2,7 +2,7 @@
 
 Hi I'm **Chapo** welcome to my site
 
-> Wow da best site ever mane
+> "Wow da best site ever mane" - B-Real of Cypress Hill
 
 
 ### Ummm
