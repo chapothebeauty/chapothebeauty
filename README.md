@@ -26,17 +26,26 @@ Q: _What do you got that cross on your neck for_?
 
 A: **I done told you**
 
+### Exclusive Pictures
+Coming Soon
 
+
+### Videos
+<iframe src="https://www.youtube.com/watch?v=fl8giVbsIic"   
+width="640" height="360" frameborder="0" ></iframe>
+
+
+
+
+
+
+
+### Music
 
 
 ### ???
 
 Sleep
 ![image0-8.jpg]({{site.baseurl}}/image0-8.jpg)
-
-
-body {
- background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Mexico_%281823-1864%2C_1867-1893%29.svg/1280px-Flag_of_Mexico_%281823-1864%2C_1867-1893%29.svg.png");
-}
 
 
