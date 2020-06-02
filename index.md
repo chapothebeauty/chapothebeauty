@@ -2,8 +2,49 @@
 title: /
 layout: home
 permalink: /
+published: true
 ---
+## CHAPO THE BEAUTY
 
-# Lorem ipsum
+Hi I'm **Chapo** welcome to my site
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> "Wow da best site ever mane" - B-Real of Cypress Hill
+
+
+### Ummm
+[SOUNDCLOUD](https://soundcloud.com/chapothebeauty "SOUNDCLOUD")
+
+
+[instagram](https://instagram.com/chapothebeauty "instagram")
+[twitter](https://twitter.com/chapothebeauty "twitter")
+[youtube](https://www.youtube.com/channel/UC7lng407qfPKmlQBQSOmatQ "youtube")
+[spotify](https://open.spotify.com/artist/50IdS28e1U2130dN475nRE "spotify")
+
+
+
+### Music
+Coming Soon
+
+
+### Exclusive Pictures
+Coming Soon
+
+
+### Videos
+<iframe src="https://www.youtube.com/embed/fl8giVbsIic"   
+width="640" height="360" frameborder="0" ></iframe>
+
+
+
+
+
+
+
+
+
+
+### ???
+
+Sleep
+![image0-8.jpg]({{site.baseurl}}/image0-8.jpg)
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
