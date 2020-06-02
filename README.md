@@ -31,7 +31,7 @@ Coming Soon
 
 
 ### Videos
-<iframe src="https://www.youtube.com/watch?v=fl8giVbsIic"   
+<iframe src="https://www.youtube.com/embed/watch?v=fl8giVbsIic"   
 width="640" height="360" frameborder="0" ></iframe>
 
 
