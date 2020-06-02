@@ -17,14 +17,8 @@ Hi I'm **Chapo** welcome to my site
 
 
 ### Music
+Coming Soon
 
-Hi I have 3 mixtapes and I also have another mixtape but it isn't out yet lol daaaamn dat sucks (thats what ur saying in ur head)
-
-### FAQ
-
-Q: _What do you got that cross on your neck for_?
-
-A: **I done told you**
 
 ### Exclusive Pictures
 Coming Soon
@@ -40,7 +34,7 @@ width="640" height="360" frameborder="0" ></iframe>
 
 
 
-### Music
+
 
 
 ### ???
