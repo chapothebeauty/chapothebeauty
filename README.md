@@ -2,10 +2,9 @@
 
 Hi I'm **Chapo** welcome to my site
 
-> "Wow da best site ever mane" - B-Real of Cypress Hill
 
 
-### Ummm
+### TXT
 [SOUNDCLOUD](https://soundcloud.com/chapothebeauty "SOUNDCLOUD")
 
 
@@ -16,11 +15,11 @@ Hi I'm **Chapo** welcome to my site
 
 
 
-### Music
+### MUSIC
 Coming Soon
 
 
-### Exclusive Pictures
+### EXCLSVE PCTRES
 Coming Soon
 
 
